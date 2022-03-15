@@ -84,7 +84,7 @@ textarea{
 }
 
 body{
-    background-color: var(--body-color);
+    background-color: var(--container-color);
     color: var(--text-color);
     transition: .4s;
 }
